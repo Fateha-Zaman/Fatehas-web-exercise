@@ -1,6 +1,6 @@
 ## My Information
 - *Name:* Fateha Binta Zaman
-- *Course:* Web Development Exercise  
+- *Course:* Tools of Software Development  
 - *Institution:* [Centria University of Apllied Sciences]
 - *Project:* Markdown Tutorial & GitHub Pages
 
@@ -22,3 +22,4 @@ This project is part of my course curriculum where I learned:
 - *Email:* [fatehabintaz@gmail.com]
 - *Phone:* [+358404796170]
 [← Back to Home](index.md)
+
